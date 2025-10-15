@@ -2,6 +2,8 @@
 
 A transformer-based model for predicting expected value (EV) in Betfair horse racing markets using order book data and market microstructure.
 
+[🎥 Watch the walkthrough on Loom](https://www.loom.com/share/13e6a33c362044e9a2e8556780c9f630?sid=c482d59c-52d7-4a9d-a37c-f5ee0c92a7ad)
+
 ## Overview
 
 This project implements a deep learning model that processes Betfair exchange betting data to predict the expected value of back-to-lay arbitrage opportunities in horse racing markets. The model uses transformer architecture to capture temporal dependencies in market data and predict profitable trading opportunities.
